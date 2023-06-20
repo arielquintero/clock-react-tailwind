@@ -25,7 +25,7 @@ Posee una vista amigable tanto en dispositivos moviles como desktop
 <br/>
 Aqui tienes una imagen en un formato desktop
 <br/>
-![Desktop](./src/assets/.Screenshot_Clock.png "Desktop")
+![Desktop](./src/assets/Screenshot_Clock.png "Desktop")
 <br/>
 Te dejo una **<a href="https://clock-react-tailwindcss.netlify.app/" target="_black">demo</a>** del mimo si quieres verla.
 
